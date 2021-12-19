@@ -1,4 +1,4 @@
-package awt.delegationEventModel;
+package awt.delegationEventModel.actionEvent;
 
 import java.awt.Button;
 import java.awt.Color;
